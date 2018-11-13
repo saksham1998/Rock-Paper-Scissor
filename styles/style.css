@@ -113,4 +113,7 @@ body{
 	#comp-badge{
 		right:-45px;
 	}
+	#play-box{
+		width:45%;
+	}
 }
